@@ -15,6 +15,9 @@ This Directory contains Angular Front-end with pre-configured Electron-js Deskto
 `To Run the APP`
 
 -Set up MongoDB Database and modify 'ConnectionStrings' in `api\WebApplication1\WebApplication1\appsettings.json`
+
 -Start Web-API in Visual Studio
+
 -Start the Front-end in `ui\my-app` folder OR
+
 -Start the .exe Desktop Application file generated through electron-package-manager in `ui\my-app\release-builds`.
